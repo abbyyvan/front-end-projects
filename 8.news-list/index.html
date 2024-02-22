@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News List</title>
+</head>
+<style>
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    li{
+        list-style: none;
+    }
+    a{
+        text-decoration: none;
+    }
+    .news{
+        width: 360px;
+        height: 200px;
+        margin:100px auto;
+        
+    }
+    .news .head{
+        height: 34px;
+        background-color: #eee;
+        border: 1px solid #dbdee1;
+        border-left: none;
+    }
+    .news .head a{
+        width: 48px;
+        height: 34px;
+        display: inline-block;
+        border-top: 3px solid #ff8400;
+        border-right: 1px solid #dbdee1;
+        background-color: #fff;
+        /*-1 to move upward */
+        margin-top: -1px;
+        text-align: center;
+        /* because we set border 3px and move up 1px */
+        /* it is better minus 4/2=2px to set line-height */
+        line-height: 32px;
+        font-size: 14px;
+        color:#333
+    }
+    .news .content{
+        padding: 5px;
+    }
+    .news .content li{
+        padding-left: 15px;
+        background-image: url(./images/square.png);
+        background-repeat: no-repeat;
+        background-size: 3px 3px;
+        background-position: 0 center;
+    
+    }
+    .news .content li a{
+        font-size: 12px;
+        color:#666;
+        line-height: 24px;
+    }
+    .news .content li a:hover{
+        color: #ff8400;
+    }
+</style>
+<body>
+    <div class="news">
+        <div class="head"><a href="#">News</a></div>
+        <div class="content">
+            <ul>
+                <li><a href="">Biden cancels $1.2bn in student loans</a></li>
+                <li><a href="">Boeing 737 Max boss out after blowout</a></li>
+                <li><a href="">Google to fix AI picture bot after 'woke' criticism</a></li>
+                <li><a href="">Super Bowl parade shooting</a></li>
+                <li><a href="">Dune: Part Two review</a></li>
+                <li><a href="">How K-Pop took over the global</a> </li>
+            </ul>
+        </div>
+        
+    </div>
+</body>
+</html>
