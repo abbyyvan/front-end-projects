@@ -7,7 +7,9 @@
 <h4>6. Banner</h4>
 <img width="480" alt="Screenshot 2024-02-21 at 20 56 03" src="https://github.com/abbyyvan/front-end-projects/assets/47904921/c16d011b-1c7c-47a3-99f3-653236b565de">
 <hr>
-
+<h4>7. Product Card</h4>
+<img width="480" alt="Screenshot 2024-02-21 at 22 27 39" src="https://github.com/abbyyvan/front-end-projects/assets/47904921/a2f4b100-2898-4acf-bc60-a4adba99c98a">
+<hr>
 <h4>8. News List</h4>
 <img width="500" alt="Screenshot 2024-02-21 at 20 10 24" src="https://github.com/abbyyvan/front-end-projects/assets/47904921/866e746c-cb4a-471a-8105-c09cde2b1e24">
 <hr>
