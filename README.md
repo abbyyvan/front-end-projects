@@ -28,7 +28,7 @@
 <img width="500" alt="Screenshot 2024-02-21 at 20 10 24" src="https://github.com/abbyyvan/front-end-projects/assets/47904921/866e746c-cb4a-471a-8105-c09cde2b1e24">
 <hr>
 <h4>09 Layout</h4>
-<img width="480" alt="Screenshot 2024-02-26 at 19 06 22" src="https://github.com/abbyyvan/front-end-projects/assets/47904921/8bd27232-6be1-4138-8c15-3ddeb21a837a">
+<img width="470" height="300" alt="Screenshot 2024-02-26 at 19 06 22" src="https://github.com/abbyyvan/front-end-projects/assets/47904921/8bd27232-6be1-4138-8c15-3ddeb21a837a">
 <hr>
 
 <h4>10. XiaoMi-product</h4>
